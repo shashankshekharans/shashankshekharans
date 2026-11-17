@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 300" role="img" aria-labelledby="title description">
+  <title id="title">Shashank's GitHub activity in 2026</title>
+  <desc id="description">226 contributions through 17 November 2026, including 130 private contributions, across 8 repositories. Weekly activity from October to November is charted below.</desc>
+  <rect width="900" height="300" rx="14" fill="#111B2B"/>
+  <rect x="1" y="1" width="898" height="298" rx="13" fill="none" stroke="#3D5268" stroke-width="2"/>
+  <text x="32" y="43" fill="#A4C6BE" font-family="Arial, sans-serif" font-size="15" letter-spacing="2">GITHUB ACTIVITY</text>
+  <text x="32" y="89" fill="#F8F5EE" font-family="Arial, sans-serif" font-size="42" font-weight="700">226</text>
+  <text x="32" y="116" fill="#D8E2E7" font-family="Arial, sans-serif" font-size="15">contributions in 2026</text>
+  <line x1="245" y1="42" x2="245" y2="127" stroke="#3D5268"/>
+  <text x="274" y="89" fill="#F8F5EE" font-family="Arial, sans-serif" font-size="42" font-weight="700">130</text>
+  <text x="274" y="116" fill="#D8E2E7" font-family="Arial, sans-serif" font-size="15">private contributions included</text>
+  <line x1="583" y1="42" x2="583" y2="127" stroke="#3D5268"/>
+  <text x="613" y="89" fill="#F8F5EE" font-family="Arial, sans-serif" font-size="42" font-weight="700">8</text>
+  <text x="613" y="116" fill="#D8E2E7" font-family="Arial, sans-serif" font-size="15">repositories, public + private</text>
+  <line x1="32" y1="153" x2="868" y2="153" stroke="#3D5268"/>
+  <text x="32" y="181" fill="#A4C6BE" font-family="Arial, sans-serif" font-size="15">Recent weekly activity</text>
+  <text x="729" y="181" fill="#A4C6BE" font-family="Arial, sans-serif" font-size="13">as of 17 Nov 2026</text>
+  <line x1="93" y1="260" x2="847" y2="260" stroke="#60728B"/>
+  <rect x="98" y="244" width="48" height="16" rx="4" fill="#55746B"/>
+  <rect x="196" y="256" width="48" height="4" rx="2" fill="#55746B"/>
+  <rect x="294" y="258" width="48" height="2" rx="1" fill="#55746B"/>
+  <rect x="392" y="196" width="48" height="64" rx="4" fill="#E76D5C"/>
+  <rect x="490" y="170" width="48" height="90" rx="4" fill="#E76D5C"/>
+  <rect x="588" y="232" width="48" height="28" rx="4" fill="#A4C6BE"/>
+  <rect x="686" y="244" width="48" height="16" rx="4" fill="#A4C6BE"/>
+  <text x="104" y="283" fill="#D8E2E7" font-family="Arial, sans-serif" font-size="12">Oct 4</text>
+  <text x="398" y="283" fill="#D8E2E7" font-family="Arial, sans-serif" font-size="12">Oct 25</text>
+  <text x="692" y="283" fill="#D8E2E7" font-family="Arial, sans-serif" font-size="12">Nov 15</text>
+</svg>
