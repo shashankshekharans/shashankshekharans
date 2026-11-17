@@ -19,7 +19,29 @@ The exhibition ends, but a stack of business cards still needs to become real fo
 
 I spend my days in marketing, so I know these aren't abstract problems. They sit between an idea and the people trying to make it happen. I started building software to make that middle part clearer: something a team can open, understand, and actually use.
 
-Here are a couple of those projects.
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashankshekharans/)
+[![X](https://img.shields.io/badge/X-Follow-111111?style=flat-square&logo=x&logoColor=white)](https://x.com/SHASHANK_ANS)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-C13584?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/shashankshekharans/)
+
+Here are a couple of those projects, and a little of the work behind them.
+
+## Where marketing meets making
+
+I bring the campaign question to the keyboard: *Who needs this? What decision are they trying to make? What would get in their way?* Then I use the tools that fit the answer.
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white)
+
+## GitHub activity
+
+<img src="assets/profile-activity-2026.svg" alt="2026 GitHub activity through 17 November: 226 contributions, including 130 private contributions, across 8 public and private repositories" width="900">
+
+These are GitHub's contribution counts through **17 November 2026**, including anonymized activity from private work. They are a snapshot, while the contribution calendar further down my profile shows the latest activity.
 
 ---
 
@@ -63,6 +85,6 @@ My starting point is a marketing problem. My toolkit often includes **TypeScript
 
 **If you're working through a messy marketing workflow, I'd love to compare notes.**
 
-[Explore my repositories](https://github.com/shashankshekharans?tab=repositories)
+[Explore my repositories](https://github.com/shashankshekharans?tab=repositories) · [Find me on LinkedIn](https://www.linkedin.com/in/shashankshekharans/)
 
 </div>
