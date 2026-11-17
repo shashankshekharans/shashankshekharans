@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" role="img" aria-labelledby="title description">
+  <title id="title">Shashank Shekhar</title>
+  <desc id="description">Building practical software that turns messy inputs into clear decisions.</desc>
+  <rect width="1200" height="300" fill="#111B2B"/>
+  <path d="M762 188 C820 188 813 96 875 96 S937 216 998 216 S1050 130 1121 130" fill="none" stroke="#4B607A" stroke-width="2"/>
+  <path d="M762 188 C820 188 813 96 875 96" fill="none" stroke="#E76D5C" stroke-width="3"/>
+  <circle cx="762" cy="188" r="8" fill="#E76D5C"/>
+  <circle cx="875" cy="96" r="8" fill="#E76D5C"/>
+  <circle cx="998" cy="216" r="8" fill="#A4C6BE"/>
+  <circle cx="1121" cy="130" r="8" fill="#A4C6BE"/>
+  <rect x="56" y="62" width="38" height="4" fill="#E76D5C"/>
+  <text x="56" y="113" fill="#A4C6BE" font-family="Arial, sans-serif" font-size="18" letter-spacing="3">BUILDING PRACTICAL TOOLS</text>
+  <text x="52" y="183" fill="#F8F5EE" font-family="Arial, sans-serif" font-size="56" font-weight="700">Shashank Shekhar</text>
+  <text x="56" y="226" fill="#D8E2E7" font-family="Arial, sans-serif" font-size="22">From messy inputs to clear decisions.</text>
+</svg>
