@@ -4,6 +4,8 @@
 
 # Hi, I'm Shashank Shekhar.
 
+[![Animated introduction: Marketing ideas made useful. Turning messy workflows into clearer decisions.](https://readme-typing-svg.demolab.com?font=Inter&size=22&pause=1400&color=E76D5C&center=true&vCenter=true&width=700&lines=Marketing+ideas+made+useful;Turning+messy+workflows+into+clearer+decisions)](https://github.com/shashankshekharans)
+
 **A marketing professional who builds tools for the moments when good ideas meet messy execution.**
 
 ![Marketing strategy](https://img.shields.io/badge/Marketing-Strategy-E76D5C?style=flat-square)
@@ -42,6 +44,16 @@ I bring the campaign question to the keyboard: *Who needs this? What decision ar
 <img src="assets/profile-activity-2026.svg" alt="2026 GitHub activity through 17 November: 226 contributions, including 130 private contributions, across 8 public and private repositories" width="900">
 
 These are GitHub's contribution counts through **17 November 2026**, including anonymized activity from private work. They are a snapshot, while the contribution calendar further down my profile shows the latest activity.
+
+### Contribution streak
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=shashankshekharans&theme=transparent" alt="Shashank's GitHub contribution streak statistics" width="495">
+</div>
+
+### Activity over the last 31 days
+
+[![Shashank's recent GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shashankshekharans&theme=github-compact)](https://github.com/shashankshekharans)
 
 ---
 
